@@ -1,6 +1,6 @@
 server:
  port: 8585
- eureka:
+eureka:
  instance:
    hostname: localhost
  client:
